@@ -98,6 +98,7 @@ public class Pokemon {
      * @return attackLevel the attack level of the pokemon
      */
     public int getAttackLevel() {
+
         return attackLevel;
     }
     /**
